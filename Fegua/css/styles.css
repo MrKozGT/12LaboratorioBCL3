@@ -1,0 +1,38 @@
+.fondo{
+	background:url("../img/2.jpg")no-repeat fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	-o-background-size:cover;
+	background-size:cover;
+	height:556px;
+	width:100%;
+}
+.titulo{
+	text-align:center;
+}
+.texto{
+	color:white;
+	font-size:20px;
+	font-weight:bolder;
+}
+.meniu{
+	color:white;
+	font-size:20px;
+	font-weight:bolder;
+	margin-top:50px;
+	text-align:center;
+}
+.men1{
+	color:white;
+}
+.menu:hover{
+	color:white;
+	font-size:20px;
+	font-weight:bolder;
+	background-color:white;
+	border-radius:10px;
+	margin-top:50px;
+	text-align:center;
+	height:100%;
+	width:100%;
+}
